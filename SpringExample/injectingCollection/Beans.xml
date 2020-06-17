@@ -31,7 +31,14 @@
       <!-- results in a setAddressMap(java.util.Map) call -->
       <property name = "addressMap">
          <map>
-           
+            <!--   
+            <entry key = "1"><null/></entry>
+            ****************prints null************ 
+            
+            <entry key = "1" value = ""/>
+          	****************prints blank************ 
+          	-->
+          	
             <entry key = "1" value = "India"/>
             <entry key = "2" value = "Pakistan"/>
             <entry key = "3" value = "USA"/>
