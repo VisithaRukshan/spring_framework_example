@@ -8,6 +8,7 @@
 	<classpathentry kind="src" path="injectingCollection"/>
 	<classpathentry kind="src" path="javaBaseConfiguration"/>
 	<classpathentry kind="src" path="javaBaseConfigurationPart2"/>
+	<classpathentry kind="src" path="importAnnotation"/>
 	<classpathentry kind="lib" path="C:/Users/Visitha Perera/Downloads/springjars/spring jars/com.springsource.bsh-2.0.0.b4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Visitha Perera/Downloads/springjars/spring jars/com.springsource.com.caucho-3.2.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Visitha Perera/Downloads/springjars/spring jars/com.springsource.com.ibatis-2.3.4.726.jar"/>
